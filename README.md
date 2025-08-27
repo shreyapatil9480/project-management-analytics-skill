@@ -55,3 +55,6 @@ jupyter notebook analysis.ipynb
 
 This project is intended to showcase analytical and programming skills useful for business analytics and project management roles. Feel free to modify the dataset generation or analysis steps to explore different scenarios.
 
+## Additional Notes
+
+This branch demonstrates how to create a pull request by adding a simple section to the README.
